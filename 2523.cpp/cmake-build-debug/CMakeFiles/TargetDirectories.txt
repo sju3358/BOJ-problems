@@ -1,0 +1,3 @@
+C:/Users/sju3358/Desktop/Github/BOJ-problems/2523.cpp/cmake-build-debug/CMakeFiles/2523_cpp.dir
+C:/Users/sju3358/Desktop/Github/BOJ-problems/2523.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sju3358/Desktop/Github/BOJ-problems/2523.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
