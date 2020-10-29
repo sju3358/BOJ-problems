@@ -1,0 +1,1 @@
+main(i){char s[1000001],b[37],r[1000001];gets(s);gets(b);int j=0,t=strlen(s),k=strlen(b);for(i=0;i<=t;i++){if(strncmp(r+j-k,b,k)==0)j-=k;r[j++]=s[i];}if(!r[0])puts("FRULA");else puts(r);}
