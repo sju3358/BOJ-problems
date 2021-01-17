@@ -1,4 +1,4 @@
 # BOJ-problems
-This is repository for Studying Solving BOJ Algorhitm Problems
+백준 온라인저지에서 풀었던 문제의 코드를 저장해놓았습니다.
 
 파일이름은 문제번호가 아닌 채점번호입니다.
